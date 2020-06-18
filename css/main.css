@@ -1,0 +1,13 @@
+
+.nav-menu {
+    text-align: center;
+}
+
+.nav-spacing {
+    margin-left: 10px
+}
+.nav-menu a {color: #000;}         /* Unvisited link  */
+.nav-menu a:visited {color:#000;} /* Visited link    */
+.nav-menu a:hover {color:#000;}   /* Mouse over link */
+.nav-menu a:active {color:#000;}  /* Selected link   */
+.nav-menu a {text-decoration: none}

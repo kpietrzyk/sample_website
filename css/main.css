@@ -6,6 +6,45 @@
 .nav-spacing {
     margin-left: 10px
 }
+
+.image-link {
+    text-decoration: none;
+}
+
+.blockquote-style {
+    padding: 2px 20px;
+    background: #EEEEEE;
+}
+
+.md-header{
+    text-align: center;
+    margin: 0 0 80px;
+}
+.md-img-whale {
+    display:block;
+    margin: 0 auto;
+}
+.md-img-book-cover {
+    float:left;
+    display: block;
+    margin: 0 40px 0 0;
+}
+.md-main {
+    width: 500px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #e7e7e7;
+}
+.md-blockquote {
+    font-style: italic;
+    font-size: 20px;
+}
+.md-span-ishmael {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    color: red;
+}
 .nav-menu a {color: #000;}         /* Unvisited link  */
 .nav-menu a:visited {color:#000;} /* Visited link    */
 .nav-menu a:hover {color:#000;}   /* Mouse over link */
